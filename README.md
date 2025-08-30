@@ -18,7 +18,7 @@ PM-Internship-Portal/
 ├── resume_parser.py       # Resume analysis logic
 ├── import_data.py         # CSV data import script
 ├── requirements.txt       # Python dependencies
-├── .env                   # Environment variables (you create this)
+├── .env                   # Environment variables 
 ├── index.html             # Main portal interface
 ├── styles.css             # Frontend styling
 ├── script.js              # Frontend functionality
